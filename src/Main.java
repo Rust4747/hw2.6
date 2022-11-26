@@ -8,7 +8,7 @@ public class Main {
             System.out.println("данные верны");
 
         } else {
-            System.out.println("данные не верны");
+            System.out.println("данные не верны ");
         }
     }
 }
